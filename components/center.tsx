@@ -50,7 +50,7 @@ export function CenterContent() {
           </span>
         </Link>
 
-        <span
+        {/* <span
           style={{
             opacity: 0,
             transform: "translateY(20px)",
@@ -62,7 +62,7 @@ export function CenterContent() {
             Build your {""}
           </span>
           Function Beautifully.
-        </span>
+        </span> */}
 
         {/* <span
           style={{
