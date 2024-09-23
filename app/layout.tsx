@@ -5,7 +5,7 @@ import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Pexlle",
+  title: "EVENT FRM AFRICA",
   description: "Basic dashboard with Next.js and Shadcn",
 };
 

@@ -41,14 +41,14 @@ export default function AuthenticationPage() {
                   alignItems: "center",
                   height: "100%",
                 }}
-              >
-                <Image
+              >Event Firm Africa
+                {/* <Image
                   src={"/pexlle.png"}
                   alt="Pexlle Logo"
                   className="logo-image py-2"
                   width={150}
                   height={50}
-                />
+                /> */}
               </div>
             </Link>
           </div>

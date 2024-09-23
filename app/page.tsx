@@ -5,7 +5,7 @@ import { MainSidebar } from "@/components/layout/main-sidebar";
 import { cn } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Pexlle",
+  title: "EVENT FIRM AFRICA",
   description: "Basic dashboard with Next.js and Shadcn",
 };
 
